@@ -1,6 +1,8 @@
+qui {
 cls
 capture program drop myseventh
 program define myseventh
-   di "hey!!"
+   noi di "hey!!"
 end 
-myseventh
+}
+
